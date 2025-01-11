@@ -1,7 +1,5 @@
 # Math Mastery Adventure
 
-# Math Mastery Adventure
-
 ## Overview
 Welcome to **Math Mastery Adventure**! This interactive educational platform is designed to help students master essential mathematical concepts through engaging activities and games. Our mission is to make learning math fun and accessible for everyone, focusing on fractions, decimals, algebra, and geometry.
 
