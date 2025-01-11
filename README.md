@@ -24,5 +24,4 @@ To set up Math Mastery Adventure locally, follow these steps:
 
 ## Usage
 To run the app locally:
-
-1. Start the application:
+ Start the application
