@@ -1,1 +1,1 @@
-# Math-Mastry
+# Math Mastery Adventure
