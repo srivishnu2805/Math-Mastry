@@ -14,7 +14,7 @@ Welcome to **Math Mastery Adventure**! This interactive educational platform is 
 2. [Usage](#usage)
 
 ## Installation
-To set up Math Mastery Adventure locally, follow these steps:
+To set up _Math Mastery Adventure_ locally, follow these steps:
 
 1. Clone the repository:
 
